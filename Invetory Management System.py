@@ -47,7 +47,6 @@ class Product:
             quantity=data["Stock"],
         )
 
-
 class InventoryManager:
     def __init__(self, filename="products.json"):
         self.filename = filename
@@ -357,7 +356,6 @@ class InventoryManager:
         for prod in low_stock_items:
             print(prod)
         print("=" * 95)
-
 
 def main():
     print("============ Welcome to Inventory Management System =============")
