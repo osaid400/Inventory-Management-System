@@ -172,10 +172,12 @@ class InventoryManager:
         print("=" * 95)
 
     def search_product(self):
+        print("=" * 95)
         print("\nSearch By:")
         print("1. Search by ID")
         print("2. Search by Name")
         print("3. Search by Category")
+        print("=" * 95)
 
         try:
             choice = int(input("Enter your choice (1-3): "))
@@ -372,6 +374,7 @@ def main():
         print("7. Decrease Stock")
         print("8. Low Stock Alert")
         print("0. Exit")
+        print("======================================================")
 
         try:
             choice = int(input("Enter choice: "))
