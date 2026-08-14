@@ -1,0 +1,27 @@
+==========================================================================================
+Product Name              Category             Price           Stock      Total Value
+==========================================================================================
+Mechanical Keyboard       Electronics          Rs. 8,500.00    24         Rs. 204,000.00
+Wireless Mouse            Electronics          Rs. 2,200.00    30         Rs. 66,000.00
+USB-C Hub                 Electronics          Rs. 4,500.00    18         Rs. 81,000.00
+27-inch Monitor           Electronics          Rs. 52,000.00   6          Rs. 312,000.00
+Gaming Headset            Electronics          Rs. 7,500.00    20         Rs. 150,000.00
+Webcam 1080p              Electronics          Rs. 6,800.00    15         Rs. 102,000.00
+Laptop Stand              Accessories          Rs. 3,500.00    25         Rs. 87,500.00
+SSD 1TB External          Storage              Rs. 18,500.00   10         Rs. 185,000.00
+Ergonomic Chair           Furniture            Rs. 28,000.00   6          Rs. 168,000.00
+A4 Copy Paper (Ream)      Stationery           Rs. 850.00      100        Rs. 85,000.00
+Ballpoint Pens (Box)      Stationery           Rs. 450.00      80         Rs. 36,000.00
+Stapler Machine           Stationery           Rs. 650.00      40         Rs. 26,000.00
+Whiteboard 4x3 ft         Furniture            Rs. 4,200.00    12         Rs. 50,400.00
+Filing Cabinet            Furniture            Rs. 9,500.00    7          Rs. 66,500.00
+Power Bank 20000mAh       Electronics          Rs. 5,500.00    35         Rs. 192,500.00
+Bluetooth Speaker         Electronics          Rs. 4,800.00    22         Rs. 105,600.00
+Phone Case (Universal)    Accessories          Rs. 800.00      60         Rs. 48,000.00
+HDMI Cable 2m             Accessories          Rs. 1,200.00    45         Rs. 54,000.00
+Desk Lamp LED             Furniture            Rs. 3,200.00    18         Rs. 57,600.00
+Wireless Charger Pad      Electronics          Rs. 2,800.00    28         Rs. 78,400.00
+USB (128 GB)              Electronics          Rs. 1,200.00    20         Rs. 24,000.00
+==========================================================================================
+Total Inventory Valuation: Rs. 2,179,500.00
+==========================================================================================

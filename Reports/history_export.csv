@@ -1,0 +1,3 @@
+Timestamp,Username,Action Type,Details
+2026-08-14 09:34:28,admin,UPDATE_PRODUCT,Updated product ID 101
+2026-08-14 09:36:08,admin,SALE_STOCK,Sold 2 units of product ID 104
